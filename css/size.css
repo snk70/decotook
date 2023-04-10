@@ -1,0 +1,454 @@
+.site-logo
+{
+width:170px;
+height:49px;	
+}
+img
+{
+max-width:100%;	
+}
+@media(max-width: 2000px)
+{
+	
+
+
+
+.e-w
+{
+width:640px;
+margin-right:20px;
+margin-left:20px;	
+}
+
+
+
+.dv_products
+{
+width:60%;align-content:center;	
+}
+
+.img_1
+{
+	
+	width:100%;
+	margin-bottom:-5px;
+	
+}
+
+.prp_content
+{
+	
+	
+	background-color:#FFFFFF;
+	width:81%;
+	float:right;
+	padding:10px;
+	margin-right:1%;
+	
+}
+
+.side_menu
+{
+width:15%;
+margin-right:2%;
+margin-left:1%;
+
+padding:20px;
+float:left;
+background-color:#FFFFFF;
+
+}
+
+
+.op_close_menu
+{	
+display:none;
+
+}
+
+
+.side_propagation
+{
+width:15%;
+margin-left:10%;
+display:none;
+padding:20px;
+float:left;
+background-color:#FFFFFF;
+
+}
+
+.mrg_top_20
+{
+margin-top:20px;	
+}
+
+.prdt_comment
+{
+	margin-top:-10px;
+height:20%;	
+}
+.op_close_menu
+{
+display:none;	
+}
+.dv_prdt
+{
+width:25%;
+}	
+}
+
+
+
+
+
+
+
+
+@media(max-width:1270px)
+{
+	
+.prp_content
+{
+	
+	
+	background-color:#FFFFFF;
+	width:70%;
+	float:right;
+	padding:10px;
+	margin-right:1%;
+	
+}
+
+.side_menu
+{
+width:26%;
+margin-right:2%;
+margin-left:1%;
+
+padding:20px;
+float:left;
+background-color:#FFFFFF;
+
+}
+
+
+.op_close_menu
+{	
+display:none;
+
+}
+
+.prp_div
+{
+	
+	width:31.3333333333333%;
+	float:right;
+	
+
+	margin-right:1%;
+	margin-top:2%;
+	margin-left:1%;
+	
+	
+}
+
+}
+@media(max-width:1200px)
+{
+.dv_prdt
+{
+width:100%;
+}	
+.e_w
+{
+width:100%;
+margin-right:0;
+margin-left:0;	
+}
+}
+
+@media(max-width:1000px)
+{
+.e-w
+{
+width:100%;	
+margin:0;
+}
+}
+
+@media(max-width: 900px)
+{
+
+.prp_content
+{
+	
+	
+	background-color:#FFFFFF;
+	width:100%;
+	float:right;
+	padding:10px;
+	margin-right:1%;
+	
+}
+
+.side_menu
+{
+width:50%;
+margin-right:2%;
+margin-left:1%;
+
+padding:20px;
+float:left;
+background-color:#FFFFFF;
+
+}
+
+
+.op_close_menu
+{	
+float:left;
+display:block;
+font-size:36px;
+position:fixed;
+left:10px;
+margin-top:-35px;
+
+}
+
+}
+
+.prp_div
+{
+	
+	width:48%;
+	float:right;
+	
+
+	margin-right:1%;
+	margin-top:2%;
+	margin-left:1%;
+	
+	
+}
+
+.dv_products
+{
+width:70%;align-content:center;	margin-top:-30px;
+}
+
+.img_1
+{
+	
+	width:100%;
+	margin-bottom:-5px;
+	
+}
+
+
+
+.side_propagation
+{
+width:0%;
+margin-left:10%;
+display:none;
+padding:20px;
+float:left;
+background-color:#FFFFFF;
+
+}
+
+.mrg_top_20
+{
+margin-top:20px;	
+}
+
+.prdt_comment
+{
+margin-top:-10px;
+height:20%;	
+}
+
+
+}
+
+@media(min-width:768px)
+{
+	
+	.menu_Size1
+	{
+		
+	width:700% !important;
+		
+	}
+	
+	
+}
+
+@media(max-width:767px)
+{
+	
+	
+.menu_Size1
+	{
+		
+	width:100% !important;
+		
+	}
+
+.side_menu
+{
+display:none;
+width:300px;
+padding:15px;
+float:left;
+background-color:#FFFFFF;
+text-decoration:none;
+
+}
+.op_close_menu
+{	
+float:left;
+display:block;
+font-size:36px;
+position:fixed;
+left:10px;
+margin-top:-35px;
+
+}
+}
+
+@media(max-width:550px)
+{
+.prp_content
+{
+	
+	
+	background-color:#FFFFFF;
+	width:99%;
+	float:right;
+	padding:10px;
+	margin-right:1%;
+	
+}
+
+.side_menu
+{
+display:none;
+width:300px;
+padding:15px;
+float:left;
+background-color:#FFFFFF;
+text-decoration:none;
+
+}
+.op_close_menu
+{	
+float:left;
+display:block;
+font-size:36px;
+position:fixed;
+left:10px;
+margin-top:-35px;
+
+}
+
+.prp_div
+{
+	
+	width:48%;
+	float:right;
+	
+
+	margin-right:1%;
+	margin-top:2%;
+	margin-left:1%;
+	
+	
+}
+
+}
+
+
+@media(max-width:350px)
+{
+.prp_content
+{
+	
+	
+	background-color:#FFFFFF;
+	width:99%;
+	float:right;
+	padding:10px;
+	margin-right:1%;
+	
+}
+
+.side_menu
+{
+display:none;
+width:300px;
+padding:15px;
+float:left;
+background-color:#FFFFFF;
+text-decoration:none;
+
+}
+.op_close_menu
+{	
+float:left;
+display:block;
+font-size:36px;
+position:fixed;
+left:10px;
+margin-top:-35px;
+
+}	
+
+.prp_div
+{
+	
+	width:98%;
+	float:right;
+	
+
+	margin-right:1%;
+	margin-top:5%;
+	margin-left:1%;
+	
+	
+}
+}
+
+
+.dv_pages
+{
+float:right;
+width:98%;
+padding:1%;	
+text-align:center;
+	
+}
+
+
+.fs16_menu
+{
+font-size:16px !important;	
+}
+
+.wdt_100
+{width:100% !important;}
+.tb_hide{display:none;}
+.ds
+{
+height:40px;	
+}
+
+.my-btn
+{
+background-color:#1c9cb0;color:#FFFFFF;	
+}
+.my-btn2
+{
+background-color:#9c52a0;color:#FFFFFF;	
+}

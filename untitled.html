@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+
+
+
+
+
+<div style="width:500px;height:500px;background-color:red;display:none;float:right;" id="dv1">
+</div>
+<div style="width:100px;height:500px;background-color:blue;float:right;" id="dv2">
+</div>
+
+
+
+<button onClick="sina()">Click</button>
+
+<script type="text/javascript">
+
+
+
+
+function sina()
+{
+	if(document.getElementById("dv1").style.width=="500px")
+	{
+	document.getElementById("dv1").style.width="100px";
+	document.getElementById("dv2").style.width="500px";
+	}else
+	{
+		document.getElementById("dv1").style.width="500px";
+		document.getElementById("dv2").style.width="100px";
+	}
+}
+
+
+
+</script>
+
+
+</body>
+</html>

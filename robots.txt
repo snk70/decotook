@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Error.html
+Disallow: /save_comments/
+Disallow: /ckeditor/
+Disallow: /prv/
+Sitemap: http://www.decotook.com/sitemap.xml
